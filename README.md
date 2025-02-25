@@ -9,6 +9,4 @@ Zefan Cai obtained his Master's Degree in Software Engineering from Peking Unive
 
 Zefan Cai's research primarily concentrates on efficient methods to accelerate inference or training, including KV Cache Compression (<a href="https://github.com/Zefan-Cai/KVCache-Factory">KVCache-Factory</a>. Additionally, he is interested in addressing typical challenges in natural language processing.
 
-**He's looking for one research intern in efficient methods**. Please get in touch with him (hjiang[aT]microsoft[DoT.]com) if you are interested in the research topics.
-
-![image](https://github-readme-stats.vercel.app/api?username=iofu728&show_icons=true&theme=onedark)
+![image](https://github-readme-stats.vercel.app/api?username=Zefan-Cai8&show_icons=true&theme=onedark)
