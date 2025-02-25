@@ -1,16 +1,14 @@
-## Hi there 👋
+👨‍🌾‍ This is Zefan Cai's homepage.
 
-<!--
-**Zefan-Cai/Zefan-Cai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email: zefncai[aT]gmail[DoT.]com
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Zefan Cai is now a Ph.D student in CS from University of Wisconsin - Madison, working with Junjie Hu.
+Zefan Cai obtained his Master's Degree in Software Engineering from Peking University, working with Baobao Chang.<br>
+
+Zefan Cai's research primarily concentrates on efficient methods to accelerate inference or training, including KV Cache Compression (<a href="https://github.com/Zefan-Cai/KVCache-Factory">KVCache-Factory</a>. Additionally, he is interested in addressing typical challenges in natural language processing.
+
+**He's looking for one research intern in efficient methods**. Please get in touch with him (hjiang[aT]microsoft[DoT.]com) if you are interested in the research topics.
+
+![image](https://github-readme-stats.vercel.app/api?username=iofu728&show_icons=true&theme=onedark)
